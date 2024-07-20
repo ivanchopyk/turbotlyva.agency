@@ -4,7 +4,7 @@ title: Про нас
 permalink: /about
 ---
 
-<img width="1522" alt="Screen Shot 2020-05-19 at 23 05 46" src="IMG_1781.JPG" alt="Profile pic" />
+<img src="IMG_1781.JPG" alt="Profile pic" />
 
 ## Привіт, мене звати Аня!
 
