@@ -6,7 +6,7 @@ permalink: /about
 
 <img src="{{ site.baseurl }}/assets/IMG_1781.JPG"
 	width="500" 
-	border-radius="50%" />
+	radius="50%" />
 
 ## Привіт, мене звати Аня!
 
