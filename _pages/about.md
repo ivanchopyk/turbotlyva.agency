@@ -5,8 +5,7 @@ permalink: /about
 ---
 
 <img 
-	src="IMG_1781.JPG" 
-	width="3024" />
+	src="IMG_1781.JPG" />
 
 ## Привіт, мене звати Аня!
 
