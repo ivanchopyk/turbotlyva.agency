@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 <img 
-	src="IMG_1781.JPG" />
+	src="https://drive.google.com/file/d/14i5cykS-y_JBPmfLx8NVuNjD5Pps3P4t/view?usp=sharing" />
 
 ## Привіт, мене звати Аня!
 
