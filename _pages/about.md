@@ -24,7 +24,6 @@ permalink: /about
 
 
 <div id="image">
-
     <side>
       <img src="{{ site.baseurl }}/assets/IMG_1781.JPG" />
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
