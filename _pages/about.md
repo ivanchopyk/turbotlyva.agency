@@ -4,7 +4,7 @@ title: Про нас
 permalink: /about
 ---
 
-<img src="IMG_1781.JPG"/>
+<img src="IMG_1781.JPG" alt="IMG_1781" />
 
 ## Привіт, мене звати Аня!
 
