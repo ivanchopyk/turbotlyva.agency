@@ -31,6 +31,32 @@ title: Погодинна няня
 | Pro       &nbsp;&nbsp;   | 640 грн       &nbsp;&nbsp; | 1 200 грн    &nbsp;&nbsp; | 1 720 грн    &nbsp;&nbsp; |
 
 
+<table>
+	<tr>
+		<th>Тариф</th>
+		<th>Одна дитина</th>
+		<th>Дві дитини</th>
+		<th>Три дитини</th>
+	</tr>
+	<tr>
+		<td>Standard</td>
+		<td>400 грн</td>
+		<td>720 грн</td>
+		<td>1000 грн</td>
+	</tr>
+	<tr>
+		<td>Pro</td>
+		<td>640 грн</td>
+		<td>1200 грн</td>
+		<td>1720 грн</td>
+	</tr>
+</table>
+
+| Тариф     &nbsp;&nbsp;   | Одна дитина   &nbsp;&nbsp; | Дві дитини   &nbsp;&nbsp; | Три дитини   &nbsp;&nbsp; |
+| ------------ &nbsp;&nbsp;| --------------&nbsp;&nbsp; | -------------&nbsp;&nbsp; | -------------&nbsp;&nbsp; |
+| Standard   &nbsp;&nbsp;  | 400 грн       &nbsp;&nbsp; | 720 грн      &nbsp;&nbsp; | 1000 грн     &nbsp;&nbsp; |
+| Pro       &nbsp;&nbsp;   | 640 грн       &nbsp;&nbsp; | 1 200 грн    &nbsp;&nbsp; | 1 720 грн    &nbsp;&nbsp; |
+
 Ціни у таблиці вказані за одну годину.
 
 За цим пакетом ви можете замовляти будь-яку кількість годин (від 2-ох і більше).
