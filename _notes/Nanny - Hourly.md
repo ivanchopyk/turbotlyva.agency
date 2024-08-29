@@ -24,12 +24,14 @@ title: Погодинна няня
 
 
 ### <u>1. Ціни на пакет "Разовий"</u>: 2 години
+
 &nbsp;
 | Тариф     &nbsp;&nbsp;   | Одна дитина   &nbsp;&nbsp; | Дві дитини   &nbsp;&nbsp; | Три дитини   &nbsp;&nbsp; |
 | ------------ &nbsp;&nbsp;| --------------&nbsp;&nbsp; | -------------&nbsp;&nbsp; | -------------&nbsp;&nbsp; |
 | Standard   &nbsp;&nbsp;  | 400 грн       &nbsp;&nbsp; | 720 грн      &nbsp;&nbsp; | 1000 грн     &nbsp;&nbsp; |
 | Pro       &nbsp;&nbsp;   | 640 грн       &nbsp;&nbsp; | 1 200 грн    &nbsp;&nbsp; | 1 720 грн    &nbsp;&nbsp; |
 
+&nbsp;
 
 <table>
 	<tr>
